@@ -1,0 +1,77 @@
+""""""""""""""""""""""""""JAVA """""""ASSIGNMENT""""""""""""""""""""""""
+
+/* Please Keep on checking this file regularly.
+More Assignments will be added to this file.
+*/
+
+Assignment 1
+
+1. Write a Java Program to add marks of two subjects. Write the same program using Command line arguments.
+2. Write a Java Program to find the factorial of 20.
+3. Write a Java Program to find the first 20 Prime Numbers.
+4. Write a Java Program to find the generate the first 50 numbers of Fibonacci Series.
+5. Write a Java Program to find the factorial of 50. (Use Recursive function)
+6. Write a Java Program to generate String data dynamically with an alphabet {'A', 'B', 'C', 'D'}. Use Math.randon() to generate alphabets randomly.
+
+Assignment 2
+
+1. Write a Java Program to perform operations on Complex numbers. (Use objects)
+2. Write a Java Program to perform operations on Vectors. (i.e. x,y,z co-ordinates.) (Use objects)
+
+Assignment 3
+
+1. Write a Java Program to inherit time class. (i.e. First class has the hours component,
+Second class has the minutes component & the Third class has a seconds component.)
+Given 2 objects, find the time lapsed between them. (Generate Documentation for your program.)
+
+2. Write a Java Program to inherit the vehicle class. (Generate Documentation for your program.)
+3. Write a Java Program to implement the Living Organisms hierarchy or to implement the Nomenclature system of Chemical Compounds
+
+Assignment 4
+
+1. Write a Java Program (Use Package) to inherit time class. (i.e. First class has the hours component,
+Second class has the minutes component & the Third class has a seconds component.)
+Given 2 objects, find the time lapsed between them.
+
+2. Write a Java Program (Use Package & Interface) to implement the shape class &
+find the areas & volumes of each of the objects created for the inherited classes.
+3. Write a Java Program to implement the Living Organisms hierarchy or to implement the Nomenclature system of Chemical Compounds. Given the name of living organism, all its attributes should be available, dyanmically.
+
+Assignment 5
+
+1. Write all the above programs such that they handle all possible Exceptions.
+2. Also specify the User-Defined Exceptions wherever useful.
+
+Assignment 6 (Multithreading)
+
+1. Write a Java Program to simulate stacks.
+The push & pop activities of stack should not clash with each other.
+2. Write a Java Program to implement the Banking System.
+The bank has 2 windows, 1 for Deposits & the other for Withdrawals.
+It should be possible to perform both the activities simultaneously.
+The same Bank Account should not be allowed to be operated from both the windows, at the same time.
+
+3. Write a Java Program to implement the Mutual Exclusion Algorithms &
+Semaphores discussed in Process Management topic in OS
+
+4. Write a Java Program to implement the game of snakes & ladder.
+
+Assignment 7
+
+1. Write a Java Program to check the access specifiers. (Use Packages to check default access specifier)
+
+Assignment 8
+
+1. Write a Java Program(Use Applets) to display a given string, in the specified colour & font.
+2. Write a Java Program to sort the given array of numbers. Use JNI.
+3. Write a Java Program to find the total number of occurrences of a substring in the given string array.
+Also display the positions of each occurrence in every string of an array. The program should also display the total occurrence for substring in each string of an array.
+4. Write a Java Program to find the number of days between two dates.
+5. Write a Java Program(Use Applets) to enter the data in the fields and
+display it as a text on the screen in another applet.
+6. Write a Java Program (Use Applets & AWT class components)
+to enter the data of student name, his class & marks.
+There should be a list item which displays the list of all existing students and
+two buttons, one which enables the user to save the data entered in entry fields and
+second which enables the user to delete a record from the list displayed.
+7. Generate the Java documentation for your program.
